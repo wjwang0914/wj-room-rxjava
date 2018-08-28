@@ -13,7 +13,7 @@ import com.wj.android.room.db.entiy.User;
 
 /**
  * 作者：wangwnejie on 2018/8/6 11:30
- * 邮箱：wangwenjie1303@stnts.com
+ * 邮箱：wnag20080990@163.com
  */
 @Database(entities = {User.class}, version = 1, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {

@@ -15,7 +15,7 @@ import io.reactivex.Maybe;
 
 /**
  * 作者：wangwnejie on 2018/8/6 11:31
- * 邮箱：wangwenjie1303@stnts.com
+ * 邮箱：wnag20080990@163.com
  */
 @Dao
 public interface UserDao {
